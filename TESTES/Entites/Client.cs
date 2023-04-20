@@ -19,7 +19,10 @@ namespace TESTES.Entites
             Address = address;
         }
 
-
+        public override string ToString()
+        {
+            return $"Nome: {Name}, Telefone: {Phone}, Endereço: {Address}";
+        }
 
     }
 }
