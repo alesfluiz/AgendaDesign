@@ -13,3 +13,18 @@ C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\refint\AgendaDesign
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.pdb
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.genruntimeconfig.cache
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\ref\AgendaDesign.dll
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.exe
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.dll
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.pdb
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.dll
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\refint\AgendaDesign.dll
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.pdb
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\ref\AgendaDesign.dll

@@ -1,25 +1,24 @@
-﻿using System;
+﻿
+using AgendaDesign.Entites;
+using AgendaDesign.Services;
+using System;
 using System.Net.Sockets;
+using System.Text.RegularExpressions;
+using System.Threading.Channels;
 
-namespace TESTES.Entites
+namespace AgendaDesign.Entites
 {
     internal class Client
     {
         public string Name { get; set; }
-        public double Phone { get; set; }
-        public string Address { get; set; }
+        public string Phone { get; set; }
+        public string Email { get; set; }
 
-        public Client() { 
-        }
-
-        public Client(string name, double phone, string address)
+        public Client(string name, string phone, string email)
         {
             Name = name;
             Phone = phone;
-            Address = address;
+            Email = email;
         }
-
-
-
     }
 }

@@ -11,9 +11,9 @@ namespace AgendaDesign.Entites
             Payment = payment;
         }
 
-        public double TotalPayment(double valouPerProcedure)
+        public double TotalPayment(double valuePerProcedure)
         {
-            Payment += valouPerProcedure;
+            Payment += valuePerProcedure;
             return Payment;
         }
         public override string ToString()

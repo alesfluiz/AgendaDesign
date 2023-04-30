@@ -1,20 +1,23 @@
 ﻿using System;
+using AgendaDesign.Entites;
 
-namespace TESTES.Services
+namespace AgendaDesign.Services
 {
     internal class Procedure
     {
         public DateTime Date { get; set; }
-        public string Name { get; set; }
+        public string NameProcedure { get; set; }
         public double Value { get; set; }
+
+        public List<Client> Clients { get; set; }
 
         public Procedure()
         {
         }
-        public Procedure(DateTime date, string name, double value)
+        public Procedure(DateTime date, string nameProcedure, double value)
         {
             Date = date;
-            Name = name;
+            NameProcedure = nameProcedure;
             Value = value;
         }
 
