@@ -27,12 +27,16 @@ namespace AppTest
                     Console.Write("Telefone: (xx) xxxxx-xxxx: ");
                     telefone = Console.ReadLine();
                 }
+                
+                Console.Write("Qual o procedimento desejado: ");
+                string procedimento = Console.ReadLine();
 
-                clients.Add(new Client(name, telefone, email));
+                clients.Add(new Client(name, telefone, email, new Procedure(DateTime.Now, procedimento, 20.00)));
 
                 foreach (Client client in clients)
                 {
-                    Console.WriteLine($"Nome: {client.Name}, E-mail: {client.Email}, Telefone: {client.Phone}");
+                    Console.WriteLine($"Nome: {client.Name}, E-mail: {client.Email}, Telefone: {client.Phone}, Procedimento: " +
+                        $"{client.Procedure}");
                 }
 
             }

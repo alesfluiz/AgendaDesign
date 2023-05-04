@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using AgendaDesign.Entites;
 
 namespace AgendaDesign.Services
@@ -20,7 +21,10 @@ namespace AgendaDesign.Services
             NameProcedure = nameProcedure;
             Value = value;
         }
-
+        public override string ToString()
+        {
+            return $" {NameProcedure}, Agendamento para: {Date}, no valor de {Value.ToString("F2", CultureInfo.InvariantCulture)}";
+        }
 
     }
 }

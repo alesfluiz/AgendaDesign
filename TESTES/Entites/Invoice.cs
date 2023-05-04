@@ -16,10 +16,6 @@ namespace AgendaDesign.Entites
             Payment += valuePerProcedure;
             return Payment;
         }
-        public override string ToString()
-        {
-            return base.ToString();
-        }
-
+        
     }
 }
