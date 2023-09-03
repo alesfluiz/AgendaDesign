@@ -3,7 +3,6 @@ C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.deps.j
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.runtimeconfig.json
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.dll
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\bin\Debug\net7.0\AgendaDesign.pdb
-C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.csproj.AssemblyReference.cache
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.AssemblyInfoInputs.cache
 C:\Users\alesf\PROJETOS\AgendaDesign\TESTES\obj\Debug\net7.0\AgendaDesign.AssemblyInfo.cs

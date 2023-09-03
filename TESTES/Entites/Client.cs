@@ -28,6 +28,5 @@ namespace AgendaDesign.Entites
             Procedure = procedure;
         }
        
-
     }
 }

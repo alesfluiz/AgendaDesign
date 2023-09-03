@@ -35,14 +35,14 @@ namespace AppTest
 
                 foreach (Client client in clients)
                 {
-                    Console.WriteLine($"Nome: {client.Name}, E-mail: {client.Email}, Telefone: {client.Phone}, Procedimento: " +
+                    Console.WriteLine($"Nome: {client.Name},\nE-mail: {client.Email}, \nTelefone: {client.Phone}, \nProcedimento: " +
                         $"{client.Procedure}");
                 }
 
             }
             catch (ClientException ex)
             {
-                Console.WriteLine("Um erro ocorreu!");
+                Console.WriteLine("Ocorreu um erro!");
                 Console.WriteLine(ex.Message);
             }
         }
